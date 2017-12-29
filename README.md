@@ -10,3 +10,8 @@ Solutions to LeetCode by Java
 **2017.12.28**
  - [66 Plus One](https://leetcode.com/problems/plus-one/) 没有清楚题意
  - [747 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)  题目有问题？
+ 
+**2017.12.29**
+ - [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray) DP类型,还没学习;
+ - [9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+ - [633 Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
