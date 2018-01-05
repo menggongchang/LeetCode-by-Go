@@ -36,3 +36,8 @@ Solutions to LeetCode by Java
   如果AAA中都不包含B的话，那么AAAA或之后都不会再包含B；
 
 - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
+
+**2018.1.5**
+
+- [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) 思路
+- [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) 思路
