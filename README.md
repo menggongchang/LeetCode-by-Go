@@ -41,3 +41,11 @@ Solutions to LeetCode by Java
 
 - [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) 思路
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) 思路
+
+**2018.1.6**
+
+- [507. Perfect Number](https://leetcode.com/problems/perfect-number/submissions/1)
+- [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) 问题转换，机智；
+- [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1) 数学公式一步求解，丧心病狂；
+- [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
+
