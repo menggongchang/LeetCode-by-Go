@@ -49,3 +49,10 @@ Solutions to LeetCode by Java
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1) 数学公式一步求解，丧心病狂；
 - [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 
+
+
+
+**2018.1.8**
+
+- [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
+- [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
