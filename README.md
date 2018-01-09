@@ -56,3 +56,9 @@ Solutions to LeetCode by Java
 
 - [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
+
+**2018.1.9**
+
+- [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- [475. Heaters](https://leetcode.com/problems/heaters/description/)
+- [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
