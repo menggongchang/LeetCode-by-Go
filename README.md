@@ -62,3 +62,8 @@ Solutions to LeetCode by Java
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 - [475. Heaters](https://leetcode.com/problems/heaters/description/)
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+
+**2018.1.11**
+
+- [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
+- [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
