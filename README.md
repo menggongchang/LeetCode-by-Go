@@ -72,3 +72,10 @@ Solutions to LeetCode by Java
 
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 
+
+**2018.1.22**
+
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+- [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
+- [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+
