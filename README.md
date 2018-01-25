@@ -79,3 +79,14 @@ Solutions to LeetCode by Java
 - [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
 - [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 
+
+**2018.1.23**
+
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+
+
+**2018.1.24**
+
+- [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+
+  https://www.cnblogs.com/dyzhao-blog/p/5662891.html
