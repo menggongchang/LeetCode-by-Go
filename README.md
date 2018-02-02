@@ -90,3 +90,8 @@ Solutions to LeetCode by Java
 - [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 
   https://www.cnblogs.com/dyzhao-blog/p/5662891.html
+
+**2018.1.31**
+
+- [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
+
