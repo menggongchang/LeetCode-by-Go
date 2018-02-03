@@ -95,3 +95,10 @@ Solutions to LeetCode by Java
 
 - [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 
+
+**2018.2.3**
+
+- [198. House Robber](https://leetcode.com/problems/house-robber/description/) DP问题
+- [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+- [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+
