@@ -102,3 +102,9 @@ Solutions to LeetCode by Java
 - [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 
+
+**2018.2.4**
+
+- [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)  [Link](https://segmentfault.com/a/1190000008162435)
+- [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)  [Link](http://www.cnblogs.com/grandyang/p/5403783.html)
+- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
