@@ -108,3 +108,13 @@ Solutions to LeetCode by Java
 - [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)  [Link](https://segmentfault.com/a/1190000008162435)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)  [Link](http://www.cnblogs.com/grandyang/p/5403783.html)
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+
+**2018.2.5**
+
+- [204. Count Primes](https://leetcode.com/problems/count-primes/hints/)
+- [479. Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/)
+- [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+- [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
+- [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
+- [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
+
