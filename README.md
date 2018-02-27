@@ -1,6 +1,10 @@
 # LeetCode-by-Java
 Solutions to LeetCode by Java
 
+-------------------
+
+#### Easy
+
 **2017.12.27**
  - [414](https://leetcode.com/problems/third-maximum-number/)
  - [628](https://leetcode.com/problems/maximum-product-of-three-numbers/)
@@ -117,4 +121,9 @@ Solutions to LeetCode by Java
 - [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 - [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
+
+
+---------------
+
+#### Easy+Medium
 
